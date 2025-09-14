@@ -4,7 +4,7 @@
 
 框架使用指南：
 
-未制作完成
+【【Unity】一个可自定义加载框架的使用指南（已开源）】 https://www.bilibili.com/video/BV1cdpcz5Eut/?share_source=copy_web&vd_source=ec0f17224c8c59ef66de41f8c63386c8
 
 脚本运行方法：
 场景中，创建一个物体，将SystemManager放上去，其他都不需要用。
