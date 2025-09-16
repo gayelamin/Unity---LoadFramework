@@ -22,6 +22,9 @@ QQ群：1060377215
 目前做了一个更新，在分支中。 做了编辑器版本雏形。
 
 2025-9-17
+新功能演示：
+
+【【Unity】模块的加载居然可以这么方便】 https://www.bilibili.com/video/BV1eapUzNEBk/?share_source=copy_web&vd_source=ec0f17224c8c59ef66de41f8c63386c8
 
 略微完善了一下编辑面板。现在支持存储完文件后，放入LoadConfig/ReadyToLoad文件路径之后，自动加载模块只要被实例化了，就会把这些信息自动变成button（注意场景里面需要canvas）。然后直接测试你这个加载事件。
 
