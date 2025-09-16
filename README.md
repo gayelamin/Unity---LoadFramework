@@ -19,16 +19,11 @@ QQ群：1060377215
 
 2025-9-16
 
-目前做了一个更新，在分支中。
+目前做了一个更新，在分支中。 做了编辑器版本雏形。
 
-准备去支持使用编辑器创建加载事件信息文件，并且存储到SO文件中。然后提供了一个文件可以把So文件直接读取成CommonLoadEventInfo对象，然后调用new LoadingCommand.execute就可以直接执行加载事件。
+2025-9-17
 
-而且目前提供了一个自动加载模块，作为实验性功能。这个模块的作用是，在初始化的时候会自动读取Asset/LoadConfig/ReadyToLoad里面的SO文件，实例化成几个按钮，直接去进行加载。肥肠的方便！！！
+略微完善了一下编辑面板。现在支持存储完文件后，放入LoadConfig/ReadyToLoad文件路径之后，自动加载模块只要被实例化了，就会把这些信息自动变成button（注意场景里面需要canvas）。然后直接测试你这个加载事件。
 
-            //InstantiateManager<TestScripts.TestMono>();
-            
-            //InstantiateManager<TestSoLoad>();
-            
-  注意需要把SystemManager里面两个模块给注释掉，不然加载事件会重复。
-  同时需要注意的是现在编辑器存储文件还不支持覆盖。需要把老文件删除掉。不然就报错。
-            
+另外要注意的是面板的默认路径是loadConfig文件。
+
