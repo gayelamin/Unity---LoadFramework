@@ -24,3 +24,11 @@ QQ群：1060377215
 准备去支持使用编辑器创建加载事件信息文件，并且存储到SO文件中。然后提供了一个文件可以把So文件直接读取成CommonLoadEventInfo对象，然后调用new LoadingCommand.execute就可以直接执行加载事件。
 
 而且目前提供了一个自动加载模块，作为实验性功能。这个模块的作用是，在初始化的时候会自动读取Asset/LoadConfig/ReadyToLoad里面的SO文件，实例化成几个按钮，直接去进行加载。肥肠的方便！！！
+
+            //InstantiateManager<TestScripts.TestMono>();
+            
+            //InstantiateManager<TestSoLoad>();
+            
+  注意需要把SystemManager里面两个模块给注释掉，不然加载事件会重复。
+  同时需要注意的是现在编辑器存储文件还不支持覆盖。需要把老文件删除掉。不然就报错。
+            
